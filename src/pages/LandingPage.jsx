@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import {
   Sparkles,
   ArrowRight,
+  Map,
   Code2,
   BrainCircuit,
   FileCheck2,
@@ -12,6 +13,7 @@ import {
   Building2,
   ShieldCheck
 } from 'lucide-react';
+
 import { Button } from '../components/common/Button';
 
 export const LandingPage = () => {
